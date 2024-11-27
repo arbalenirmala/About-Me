@@ -3,7 +3,7 @@
 🚀 **About Me**
 - 🎓 I’m currently learning Cybersecurity.
 - 💼 I’m working as a Senior Front End Developer.
-- 🌱 I’m passionate about Web Developement , Web Security, Pen Testing and Web Accessibility .
+- 🌱 I’m passionate about Web Developement , Web Security, Penetration Testing and Web Accessibility .
 - ✨ Fun fact: My jokes hit harder in my native language!.
 
 📫 **How to reach me**:
